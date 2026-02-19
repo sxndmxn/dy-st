@@ -1,0 +1,11 @@
+[project]
+name = "litcharts"
+version = "0.1.0"
+description = "Dynamic, configurable Streamlit charts"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit",
+    "plotly",
+    "pandas",
+]
+
